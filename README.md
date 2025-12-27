@@ -1,2 +1,2 @@
-# MAKSYSTEM
+# MAK
 
